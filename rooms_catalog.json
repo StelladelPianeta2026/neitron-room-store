@@ -14,5 +14,13 @@
     "descrizione": "Un'immersione totale nel mondo cubico di Minecraft adattato allo stile di Neitron OS.",
     "url_anteprima": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/minecraft.png",
     "url_download": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/minecraft_core.neitronroom"
+  },
+  {
+    "id": "quiet_modern",
+    "titolo": "Quiet Modern",
+    "autore": "Stella del Pianeta",
+    "descrizione": "Una stanza adatta a tutti, con uno stile calmo e con tutte le app di cui si può avere bisogno.",
+    "url_anteprima": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/1794240801870.jng",
+    "url_download": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/custom_room_2c9bfb.neitronroom"
   }
 ]
