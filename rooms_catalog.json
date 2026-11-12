@@ -23,13 +23,4 @@
     "url_anteprima": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/1794240801870.jpg",
     "url_download": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/custom_room_2c9bfb.neitronroom"
   }
-  {
-    "id": "neitron_music",
-    "tipo": "app",
-    "titolo": "Neitron Music",
-    "autore": "Stella del Pianeta",
-    "descrizione": "Lettore musicale con interfaccia neumografica.",
-    "url_anteprima": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/Neitron%20Music%20logo.jpg",
-    "url_download": "https://raw.githubusercontent.com/StelladelPianeta2026/neitron-room-store/main/Neitron%20Music%202.31126.apk"
-  }
 ]
