@@ -1,6 +1,7 @@
 [
   {
     "id": "custom_room_f41800",
+    "tipo": "stanza",
     "titolo": "Elegant Mood",
     "autore": "Stella del Pianeta",
     "descrizione": "Un'elegante stanza dal tono caldo e accogliente",
@@ -9,6 +10,7 @@
   },
   {
     "id": "minecraft_core",
+    "tipo": "stanza",
     "titolo": "Minecraft Core",
     "autore": "Stella del Pianeta",
     "descrizione": "Un'immersione totale nel mondo cubico di Minecraft adattato allo stile di Neitron OS.",
@@ -17,6 +19,7 @@
   },
   {
     "id": "quiet_modern",
+    "tipo": "stanza",
     "titolo": "Quiet Modern",
     "autore": "Stella del Pianeta",
     "descrizione": "Una stanza adatta a tutti, con uno stile calmo e con tutte le app di cui si può avere bisogno.",
